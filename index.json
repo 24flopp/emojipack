@@ -1,7 +1,58 @@
 {
+  "path" : "emotes",
   "emotes" : [
-
+    {
+      "name" : "kekl",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "songlasses"
+    },
+    {
+      "type" : ".png",
+      "name" : "robloxnerd"
+    },
+    {
+      "name" : "walterwhite",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nobitches"
+    },
+    {
+      "name" : "kekw",
+      "type" : ".png"
+    },
+    {
+      "name" : "markipliercrazy",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "skull_"
+    },
+    {
+      "name" : "ayo",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "broke"
+    },
+    {
+      "type" : ".png",
+      "name" : "darules"
+    },
+    {
+      "name" : "mrbean",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "laughatthisuser"
+    }
   ],
-  "name" : "Floppa's Emojis",
-  "path" : "emotes"
+  "name" : "Floppa's Emojis"
 }
