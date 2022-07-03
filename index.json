@@ -1,32 +1,45 @@
 {
+  "name" : "Floppa's Emojis",
   "path" : "emotes",
   "emotes" : [
     {
-      "name" : "kekl",
+      "type" : ".png",
+      "name" : "floppabouttakillyou"
+    },
+    {
+      "name" : "broke",
+      "type" : ".png"
+    },
+    {
+      "name" : "floppatroll",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "songlasses"
+      "name" : "markipliercrazy"
     },
     {
-      "type" : ".png",
-      "name" : "robloxnerd"
+      "type" : ".gif",
+      "name" : "floppavibin"
     },
     {
-      "name" : "walterwhite",
+      "name" : "robloxnerd",
       "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "nobitches"
     },
     {
       "name" : "kekw",
       "type" : ".png"
     },
     {
-      "name" : "markipliercrazy",
+      "name" : "moNOpoly",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "mrbean"
+    },
+    {
+      "name" : "nobitches",
       "type" : ".png"
     },
     {
@@ -34,25 +47,36 @@
       "name" : "skull_"
     },
     {
-      "name" : "ayo",
-      "type" : ".png"
+      "type" : ".png",
+      "name" : "deletethat"
     },
     {
       "type" : ".png",
-      "name" : "broke"
+      "name" : "walterwhite"
+    },
+    {
+      "name" : "songlasses",
+      "type" : ".png"
     },
     {
       "type" : ".png",
       "name" : "darules"
     },
     {
-      "name" : "mrbean",
+      "name" : "ayo",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "laughatthisuser"
+      "name" : "kekl",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "caughtin4k"
+    },
+    {
+      "name" : "laughatthisuser",
+      "type" : ".png"
     }
-  ],
-  "name" : "Floppa's Emojis"
+  ]
 }
